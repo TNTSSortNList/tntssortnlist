@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image: url(2.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+

@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Century Gothic;
+}
+
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(courses.jpg);
+    height: 130vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+    margin: 25px 100px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    border-radius: 5%;
+    transition: 0.6s ease;
+}
+
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+ul li.nav2 a{
+    background-color: #fff;
+    color: #000;
+}
+
+.history {
+    font-size: 9rem;
+    font-stretch: semi-condensed;
+    color: #fff;
+}
+
+p {
+    text-indent: 0.5in;
+    font-size: 17px;
+    color: #fff;
+    margin: 10px;
+}
+
+.firstpar {
+    text-align: justify;
+}
+
+.secondpar {
+    text-align: justify;
+}
